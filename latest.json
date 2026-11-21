@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "buildNumber": 13,
+  "version": "0.2.11",
+  "buildNumber": 14,
   "releaseDate": "2026-11-21",
   "minimumAndroidVersion": 24,
   "downloads": {
-    "arm64": { "url": "https://github.com/kagenova3-cyber/inkfall-releases/releases/download/v0.2.10/reader-arm64-v8a.apk", "sha256": "d6ca02e0ce068a21e151fe198a9728a7fe8ce177bd6714b5eae56a27f8ae6418" },
-    "universal": { "url": "https://github.com/kagenova3-cyber/inkfall-releases/releases/download/v0.2.10/reader-universal.apk", "sha256": "c7371d59e0aa823a48c888637734615195348cf0981bbfece478b9a59b236dae" }
+    "arm64": { "url": "https://github.com/kagenova3-cyber/inkfall-releases/releases/download/v0.2.11/reader-arm64-v8a.apk", "sha256": "75ff07eae7f921e9ed269f38a974e061f4f3d249edb84daffc009a9093f85ee6" },
+    "universal": { "url": "https://github.com/kagenova3-cyber/inkfall-releases/releases/download/v0.2.11/reader-universal.apk", "sha256": "ddf76967626ed189a67219163fd3d3325a80b823bf6bdfe7ef69903aa877a9f1" }
   },
-  "releaseNotesUrl": "https://github.com/kagenova3-cyber/inkfall-releases/releases/tag/v0.2.10"
+  "releaseNotesUrl": "https://github.com/kagenova3-cyber/inkfall-releases/releases/tag/v0.2.11"
 }
